@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **challenging group projects**
 
-- 👨‍💻 All of my projects are available at [https://jimmypuli.github.io/website/](https://jimmypuli.github.io/website/)
+- 👨‍💻 All of my projects are available at [my portfolio website](https://jimmypuli.github.io/website/)
 
 - 📫 How to reach me **pulijimmy13@gmail.com**
 
