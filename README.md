@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jimmypuli&label=Profile%20views&color=0e75b6&style=flat" alt="jimmypuli" /> </p>
 
-- 🔭 I’m currently working on [Third-Party-APIS](https://github.com/jimmypuli/Third-Party-APIS)
+- 🔭 I’m currently working on [ReactNotes](https://github.com/jimmypuli/ReactNotes)
 
 - 🌱 I’m currently learning **React**
 
