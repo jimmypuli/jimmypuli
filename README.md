@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [MTA_Project](https://github.com/jimmypuli/MTA_Project)
 
-- 🌱 I’m currently learning how to implement **Full Stack projects**
+- 🌱 I’m currently learning the **Full Stack**
 
 - 👯 I’m looking to collaborate on **challenging group projects**
 
