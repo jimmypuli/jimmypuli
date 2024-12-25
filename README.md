@@ -1,13 +1,13 @@
 ![Header](./banner.png)
 <h1 align="center">Jimmy Puli</h1>
-<h3 align="center">A student.</h3>
+<h3 align="center">A Computer Science Graduate.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jimmypuli&label=Profile%20views&color=0e75b6&style=flat" alt="jimmypuli" /> </p>
 
-- 🔭 I’m currently working on [ReactNotes](https://github.com/jimmypuli/ReactNotes)
+- 🔭 I’m currently working on [MTA_Project](https://github.com/jimmypuli/MTA_Project)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning how to implement **Full Stack projects**
 
 - 👯 I’m looking to collaborate on **challenging group projects**
 
